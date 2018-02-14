@@ -1,0 +1,22 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "Constructor Hangman for HW9 UMN Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junissen/Constructor-Hangman.git"
+  },
+  "author": "Julia Nissen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junissen/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/junissen/Constructor-Hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
+}
