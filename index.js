@@ -163,7 +163,8 @@ var wordArray = ["the goonies",
 	"flashdance",
 	"ghostbusters",
 	"raiders of the lost ark",
-	"the empire strikes back"];
+	"the empire strikes back",
+	"ferris buellers day off"];
 
 var wordRandom = new NewWord(wordArray);
 wordRandom.letterGuess();
