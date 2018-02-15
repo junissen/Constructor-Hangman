@@ -16,7 +16,7 @@ If you get the word without using all your guesses, your score goes up by 1, you
 
 If you do not get the word within the 10 guesses, your score goes down by 1 and you are prompted to play again.
 
-Enjoy playing Hangman, but remember
+Enjoy playing Hangman, but remember...
 
 **Life moves pretty fast. You don't stop and look around once in a while, you could miss it**
 
